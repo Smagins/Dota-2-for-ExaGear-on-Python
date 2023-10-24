@@ -1,0 +1,2 @@
+python dota.py
+pause
